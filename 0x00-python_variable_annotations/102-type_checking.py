@@ -4,6 +4,7 @@
 from typing import List, Tuple
 
 
+
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
     '''Creates multiple copies of items in a tuple.
     '''
